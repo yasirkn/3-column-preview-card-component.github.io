@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link to the solution](https://github.com/yasirkn/3-column-preview-card-component.github.io)
-- Live Site URL: [Final Preveiw ](https://github.com/yasirkn/3-column-preview-card-component.github.io/)
+- Live Site URL: [Final Preveiw ](https://yasirkn.github.io/3-column-preview-card-component.github.io/)
 
 ### Built with
 
